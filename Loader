@@ -4,5 +4,4 @@ local S_Font = Enum.Font.FredokaOne -- Default FredokaOne
 local S_Color = Color3.fromRGB(255, 105, 97) -- Default (255, 105, 97)
 local S_ShowCloseButton = true -- Default true
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
-https://raw.githubusercontent.com/SnowScripts/FPS/main/MainMod.lua?token=GHSAT0AAAAAABXGWL3ZTK32HKOPLX4HXAWCYXIKZJA
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnowScripts/FPS/main/MainMod.lua", true))()
