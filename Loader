@@ -1,7 +1,7 @@
 local S_BackgroundTransparency = 1.000 -- Default 1
 local S_TextPosition = UDim2.new(0.950705111, 0, 0.848214269, 0) -- Default (0.950705111, 0, 0.848214269, 0) // (0.950705111, 0, 0.848214269, 115) for it to be at the bottom right (depends on screensize)
 local S_Font = Enum.Font.FredokaOne -- Default FredokaOne
-local S_Color = Color3.fromRGB(255, 105, 97) -- Default (255, 105, 97)
+local S_Color = 255, 105, 97 -- Default (255, 105, 97)
 local S_ShowCloseButton = true -- Default true
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SnowScripts/FPS/main/MainMod.lua", true))()
